@@ -1,0 +1,7 @@
+﻿{
+  "ServerConfig": {
+    "port": 1337,
+    "dbHost": "127.0.0.1",
+    "dbPort": 6666
+  }
+}

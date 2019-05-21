@@ -1,0 +1,88 @@
+# =============== #
+# Unity generated #
+# =============== #
+Source/Temp/
+Source/Library/
+
+# ===================================== #
+# Project specific #
+# ===================================== #
+Database.sqlite
+Database/
+
+# ===================================== #
+# Visual Studio / MonoDevelop / Rider   #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+Source/Assembly-CSharp.csproj
+Source/Assembly-CSharp-Editor.csproj
+Source/Assembly-CSharp-firstpass.csproj
+Source/Source.sln
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+bin/
+.vs/
+.idea/
+*.nupkg
+
+/packages
+
+# ============ #
+# OS generated #
+# ============ #
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
